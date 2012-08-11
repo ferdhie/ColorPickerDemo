@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="ColorPickerDemo">
+		<name >
+			ColorPickerDemo
+		</name>
+		<description >
+			Demo untuk Color Picker
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			ORCA
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 ORCA
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				ColorPickerDemo.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
